@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
 *.ipynb_checkpoints/
+models/
+*.bin
+*.pt
+git rm -r --cached models/
