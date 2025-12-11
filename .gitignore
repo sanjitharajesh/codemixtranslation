@@ -5,3 +5,4 @@ models/
 *.bin
 *.pt
 git rm -r --cached models/
+.DS_Store
